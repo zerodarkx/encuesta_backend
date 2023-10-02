@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Encuestas API
 
 Backend para prueba tecnica, para realizar un api para insertar encuestas y visualizar dichas.
 
